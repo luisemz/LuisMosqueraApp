@@ -18,7 +18,7 @@ Luego se creo la aplicación de react-native:
 Se accede a la caperta de la aplicación:
 * `cd LuisMosqueraApp`
 
-#### Construcción
+#### Ejecución
 
 Si se ha clonado la aplicación desde el repositorio se debe ejecutar el comando:
 * `npm install`
