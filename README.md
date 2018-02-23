@@ -2,6 +2,8 @@
 
 ### Desarrollo
 
+#### Construcción
+
 Se desarrollo en MacOS.
 Se instalo:
 * `brew install node`
@@ -15,6 +17,11 @@ Luego se creo la aplicación de react-native:
 
 Se accede a la caperta de la aplicación:
 * `cd LuisMosqueraApp`
+
+#### Construcción
+
+Si se ha clonado la aplicación desde el repositorio se debe ejecutar el comando:
+* `npm install`
 
 Finalmente para correr la aplicación se ejecuta el comando:
 * `npm start`
